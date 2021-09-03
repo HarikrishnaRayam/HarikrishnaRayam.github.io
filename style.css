@@ -72,10 +72,9 @@ body{
 }
 
 .banner{
-  content: url(image-header-desktop.jpg);
+  content: url(https://github.com/HarikrishnaRayam/HarikrishnaRayam.github.io/blob/main/image-header-desktop.jpg?raw=true);
   width: 100%;
   height: auto;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  filter: luminosity;
 }
